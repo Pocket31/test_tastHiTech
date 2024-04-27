@@ -1,0 +1,6 @@
+asgiref==3.8.1
+Django==4.2.11
+django-appconf==1.0.6
+django-user-accounts==3.3.2
+pytz==2024.1
+sqlparse==0.5.0
